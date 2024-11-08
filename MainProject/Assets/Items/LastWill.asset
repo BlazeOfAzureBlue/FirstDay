@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b039c0405e114458de2fa83672ba53, type: 3}
+  m_Name: LastWill
+  m_EditorClassIdentifier: 
+  id: 1
+  itemName: Last Words
+  itemDescription: I... I can't take it anymore... What the FUCK was that thing?
+    It's arm... a scythe??? Why is it made out of flesh? My friends... They're all
+    dead... Slaughtered by this thing... Jesus fucking christ.... I'm not letting
+    it catch me... I refuse to... To anyone who finds this note... Please... Save
+    yourself. I don't ever want to see that thing again. Even the backstreets aren't
+    as horrifying...
+  icon: {fileID: 21300000, guid: bdb602501e982f849bdc5c464e1a1fee, type: 3}
+  itemType: Note
+  itemPrefab: {fileID: 4795266759639050, guid: 72653085a6b827f48b10b434c7972f1c, type: 3}

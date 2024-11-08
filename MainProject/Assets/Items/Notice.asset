@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b039c0405e114458de2fa83672ba53, type: 3}
+  m_Name: Notice
+  m_EditorClassIdentifier: 
+  id: 3
+  itemName: NOTICE
+  itemDescription: ATTENTION - Emergency Door codes for this week are 2312. Please
+    ensure all personnel are informed about this in the event of a catastrophic failure
+    of the systems.
+  icon: {fileID: 21300000, guid: bdb602501e982f849bdc5c464e1a1fee, type: 3}
+  itemType: Note
+  itemPrefab: {fileID: 4795266759639050, guid: 72653085a6b827f48b10b434c7972f1c, type: 3}
